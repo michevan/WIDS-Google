@@ -1,8 +1,5 @@
 ![](/images/wids_logo.png)
 <br/>
-<br/>
-<br/>
-<br/>
 
 ---
 
