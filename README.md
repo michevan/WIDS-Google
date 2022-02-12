@@ -34,4 +34,4 @@ Replace `[notebook_name.ipynb]` with the name of the notebook you wish to view a
 
 ---
 
-![](/workshop_materials/images/long_logos.png)
+![](/images/sponsors.png)
