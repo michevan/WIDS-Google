@@ -4,10 +4,10 @@
 
 [Datathon Kaggle page](https://www.kaggle.com/c/widsdatathon2022)
 
-[Datahon Kaggle discusion board](https://www.kaggle.com/c/widsdatathon2022/discussion)
+[Datathon Kaggle discusion board](https://www.kaggle.com/c/widsdatathon2022/discussion)
 
 [Curated Datathon resources](https://www.widsconference.org/datathon-resources.html)
 
 [Example Kaggle Competition Notebook](https://www.kaggle.com/usharengaraju/wids2022-lgbm-starter-w-b)
 
-[2020 Datahon Workshop page](https://github.com/onefishy/wids_datathon_2020/) 
+[2020 Datathon Workshop page](https://github.com/onefishy/wids_datathon_2020/) 
