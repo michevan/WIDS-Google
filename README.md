@@ -1,4 +1,4 @@
-![](/workshop_materials/images/wids.jpg)
+![](/images/wids_logo.jpg)
 <br/>
 <br/>
 <br/>
