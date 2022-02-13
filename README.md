@@ -15,7 +15,7 @@ Welcome to the Women in Data Science @ Google Datathon Workshop 2022!
 
 [WiDS Main Page](https://www.widsconference.org/datathon.html) - Home page for the Women in Data Science Datathon 2022 program.
 
-[WiDS@Google How-to Guides](https://docs.google.com/document/d/1EzKINqAM9bDDHWD1E-hPp3g9o7i4OfHK6W87QNBT_5E/edit) - Introductory guides for Github, Kaggle, Google Hangouts, and Colaboratory.
+[WiDS@Google How-to Guides](https://docs.google.com/document/d/1FSg59y6mmsWIUGPE7biOWN5NGGzzIuD-s3gxz9Xqy4w/edit) - Introductory guides for Github, Kaggle, Google Hangouts, and Colaboratory.
 
 
 
