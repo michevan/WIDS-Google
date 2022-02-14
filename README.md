@@ -1,4 +1,4 @@
-<img src="images/wids-logo.jpg" alt="drawing" width="200"/>
+<img src="images/wids-logo.jpg" alt="WiDS" width="800"/>
 
 <br/>
 
