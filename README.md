@@ -1,4 +1,4 @@
-![](/images/wids_logo.png)
+![](/images/wids_logo.jpg)
 <br/>
 
 ---
