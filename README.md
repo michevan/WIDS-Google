@@ -1,7 +1,5 @@
 <img src="images/wids-logo.jpg" alt="WiDS" width="600"/>
 
-<br/>
-
 ---
 
 # WiDS@Google DATATHON WORKSHOP 2022
