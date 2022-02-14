@@ -1,4 +1,5 @@
-![](/images/wids-logo.jpg)
+<img src="/images/wids-logo.jpg.jpg" alt="drawing" width="200"/>
+
 <br/>
 
 ---
