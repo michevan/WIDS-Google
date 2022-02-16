@@ -18,7 +18,7 @@ Welcome to the Women in Data Science @ Google Datathon Workshop 2022!
 
 
 
-The [resources.md](https://github.com/michevan/WIDS-Google/blob/main/docs/resources.md) file in the docs/ folder contains a longer list of useful links as well.
+The [resources.md](https://github.com/michevan/WIDS-Google/blob/main/resources.md) file contains a longer list of useful links as well.
 
 
 ---
