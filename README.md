@@ -22,5 +22,3 @@ The [resources.md](https://github.com/michevan/WIDS-Google/blob/main/docs/resour
 
 
 ---
-
-![](/images/sponsors.png)
