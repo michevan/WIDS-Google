@@ -4,7 +4,7 @@
 
 # WiDS@Google DATATHON WORKSHOP 2022
 
-Welcome to the Women in Data Science @ Google Datathon Workshop 2022! 
+Welcome to the Women in Data Science @ Google Datathon Workshop 2023! 
 
 
 
