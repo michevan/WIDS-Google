@@ -1,4 +1,4 @@
-<img src="images/wids-logo.jpg" alt="WiDS" width="600"/>
+<img src="images/wids-matrix-stacked.jpg" alt="WiDS" width="600"/>
 
 ---
 
