@@ -14,7 +14,7 @@ Welcome to the Women in Data Science @ Google Datathon Workshop 2023!
 
 [Kaggle Competition](.) - This page hosts the Datathon challenge.
 
-[WiDS Main Page](https://www.widsconference.org/datathon.html) - Home page for the Women in Data Science Datathon 2022 program.
+[WiDS Main Page](https://www.widsconference.org/datathon.html) - Home page for the Women in Data Science Datathon 2023 program.
 
 The [resources.md](.) file contains a longer list of useful links as well.
 
