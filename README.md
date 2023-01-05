@@ -12,7 +12,7 @@ Welcome to the Women in Data Science @ Google Datathon Workshop 2023!
 
 [WiDS@Google How-to Guides](.) - Introductory guides for all the tools used in the workshop including Github, Kaggle, Google Hangouts, and Colaboratory.
 
-[Kaggle Competition](.) - This page hosts the Datathon challenge.
+[Kaggle Competition](https://www.kaggle.com/competitions/widsdatathon2023/) - This page hosts the Datathon challenge. Note: all participants must first register [here](https://airtable.com/shrSmOC8mMDjc4dFl) in order to join the competition.
 
 [WiDS Main Page](https://www.widsconference.org/datathon.html) - Home page for the Women in Data Science Datathon 2023 program.
 
