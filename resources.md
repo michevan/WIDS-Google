@@ -7,3 +7,5 @@
 [Datathon Kaggle discusion board](https://www.kaggle.com/c/widsdatathon2023/discussion)
 
 [Curated Datathon resources](https://www.widsconference.org/datathon-resources.html)
+
+[Datathon details](https://www.widsconference.org/datathon_details.html)
