@@ -16,7 +16,7 @@ Welcome to the Women in Data Science @ Google Datathon Workshop 2023!
 
 [WiDS Main Page](https://www.widsconference.org/datathon.html) - Home page for the Women in Data Science Datathon 2023 program.
 
-The [resources.md](.) file contains a longer list of useful links as well.
+The [resources.md](resources.md) file contains a longer list of useful links as well.
 
 
 ---
